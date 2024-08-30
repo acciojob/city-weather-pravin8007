@@ -1,6 +1,5 @@
 import React from "react";
 
-
 const Search = ({ query, setQuery, fetchWeather }) => {
     return (
       <input
